@@ -42,7 +42,6 @@ kubectl apply -f kubernetes/01-namespaces.yaml
 ```sh
 kubectl apply -f kubernetes/02-volumes.yaml
 ```
-
 ### Run on local kubernetes
 
 ```sh

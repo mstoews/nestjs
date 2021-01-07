@@ -30,7 +30,7 @@ spec:
         - name: registry-secret
       containers:
         - name: nestjs
-          image: docker.io/mstoews/nestjs
+          image: docker.io/mstoews/gloss-api-backend
           ports:
             - containerPort: 3000
           envFrom:
